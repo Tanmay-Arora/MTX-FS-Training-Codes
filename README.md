@@ -1,6 +1,6 @@
 # MTX-FS-Training-Codes
 
-This is a repository of all codes that were sent on whatsapp grp of MTX Full Stack Training for 13th September, 2021 FUll Stack Batch
+This is a repository of all codes that were sent on whatsapp grp(as screenshots) of MTX Full Stack Training for 13th September, 2021 Full Stack Batch
 
 Trainer Name: Charan Kumar.
 
